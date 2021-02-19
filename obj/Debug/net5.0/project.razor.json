@@ -15603,6 +15603,11 @@
   "RootNamespace": "MvcMovie",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Lenovo T540P\\OneDrive\\Documentos\\ITSUR\\VIII Semestre\\WEB II\\U2\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Lenovo T540P\\OneDrive\\Documentos\\ITSUR\\VIII Semestre\\WEB II\\U2\\MvcMovie\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15610,6 +15615,11 @@
     {
       "FilePath": "c:\\Users\\Lenovo T540P\\OneDrive\\Documentos\\ITSUR\\VIII Semestre\\WEB II\\U2\\MvcMovie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Lenovo T540P\\OneDrive\\Documentos\\ITSUR\\VIII Semestre\\WEB II\\U2\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
