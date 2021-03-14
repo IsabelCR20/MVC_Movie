@@ -25,5 +25,13 @@ namespace MvcMovie.Controllers
 
             return View();
         }
+
+        [Route("bienvenido/{name}")]
+        public IActionResult OtroWelcome (string name, int numTimes = 1){
+            ViewData["Message"] = "Hello " + name;
+            ViewData["NumTimes"] = numTimes;
+
+            return View("Welcome");
+        }
     }
 }

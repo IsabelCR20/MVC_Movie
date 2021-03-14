@@ -173,3 +173,4 @@ C:\Users\Lenovo T540P\OneDrive\Documentos\ITSUR\VIII Semestre\WEB II\U2\MvcMovie
 C:\Users\Lenovo T540P\OneDrive\Documentos\ITSUR\VIII Semestre\WEB II\U2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
 C:\Users\Lenovo T540P\OneDrive\Documentos\ITSUR\VIII Semestre\WEB II\U2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
 C:\Users\Lenovo T540P\OneDrive\Documentos\ITSUR\VIII Semestre\WEB II\U2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Lenovo T540P\OneDrive\Documentos\ITSUR\VIII Semestre\WEB II\U2\MvcMovie\obj\Debug\net5.0\Razor\Views\MyDemo\MyIndex.cshtml.g.cs

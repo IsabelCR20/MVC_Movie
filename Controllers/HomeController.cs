@@ -18,6 +18,7 @@ namespace MvcMovie.Controllers
             _logger = logger;
         }
 
+        
         public IActionResult Index()
         {
             return View();
@@ -32,6 +33,12 @@ namespace MvcMovie.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        [Route("[controller]/[action]")]
+        public IActionResult About()
+        {
+            return View("Privacy");
         }
     }
 }

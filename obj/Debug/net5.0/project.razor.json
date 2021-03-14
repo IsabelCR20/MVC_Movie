@@ -15648,6 +15648,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Lenovo T540P\\OneDrive\\Documentos\\ITSUR\\VIII Semestre\\WEB II\\U2\\MvcMovie\\Views\\MyDemo\\MyIndex.cshtml",
+      "TargetPath": "Views\\MyDemo\\MyIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Lenovo T540P\\OneDrive\\Documentos\\ITSUR\\VIII Semestre\\WEB II\\U2\\MvcMovie\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"

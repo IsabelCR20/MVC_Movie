@@ -19,6 +19,12 @@ namespace MvcMovie.Controllers
             _context = context;
         }
 
+        public async Task<IActionResult> Listar()
+        {
+            return Json(await _context.Movie.ToListAsync());
+        }
+       
+
         // GET: Movies
         public async Task<IActionResult> Index(string movieGenre, string searchString)
         {
@@ -54,6 +60,8 @@ namespace MvcMovie.Controllers
         {
             return "From [HttpPost]Index: filter on " + searchString;
         }
+
+         
 
         // GET: Movies/Details/5
         public async Task<IActionResult> Details(int? id)
